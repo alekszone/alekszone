@@ -14,4 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img  align="left"  alt="Aleksander Github Stats"  src="https://github-readme-stats.codestackr.vercel.app/api?username=alekszone&show_icons=true&hide_border=true" />  
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Aleksander  GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alekszone&show_icons=true&hide_border=true" />
+
+</details>
+
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Aleksander  GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekszone" />
+
+</details>
+
+
+
+
+
