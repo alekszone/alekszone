@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
  <summary>:zap: GitHub Stats</summary>
 
- <img align="left" alt="Aleksander  GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alekszone&show_icons=true&hide_border=true" />
+
+ ![Aleksander  github stats](https://github-readme-stats.vercel.app/api?username=alekszone&count_private=true&hide=issues,prs&show_icons=true&theme=vue&bg_color=white)
 
 
 <br/>
