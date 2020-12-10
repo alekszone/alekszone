@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 
  <summary>:zap: Most Used Languages</summary>
+ 
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekszone&layout=compact)
 
 
