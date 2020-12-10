@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 
  <summary>:zap: Most Used Languages</summary>
-
- <img align="left" alt="Aleksander  GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekszone" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekszone&layout=compact)
 
 
 
