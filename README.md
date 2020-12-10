@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-  -<summary>:zap: GitHub Stats</summary>
+  - <summary>:zap: GitHub Stats</summary>
 
-  -<img align="left" alt="Aleksander  GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alekszone&show_icons=true&hide_border=true" />
+  - <img align="left" alt="Aleksander  GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alekszone&show_icons=true&hide_border=true" />
 
 
 <br/>
 
 
 
-  -<summary>:zap: Most Used Languages</summary>
+  - <summary>:zap: Most Used Languages</summary>
 
--<img align="left" alt="Aleksander  GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekszone" />
+- <img align="left" alt="Aleksander  GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekszone" />
 
 
 
