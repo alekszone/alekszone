@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Aleksander  GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alekszone&show_icons=true&hide_border=true" />
 
 </details>
+<br/>
 
 
 <details>
