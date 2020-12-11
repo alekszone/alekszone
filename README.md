@@ -1,15 +1,17 @@
 ### Hi there 👋
 
-A Full Stack JavaScript Developer that is focused on MERN stack(MongoDB, ExpressJS, ReactJS, NodeJS),
+I'm Aleksander , a Full Stack  Developer that is focused on MERN stack(MongoDB, ExpressJS, ReactJS, NodeJS),
 Master Degree in Computer Science and a student at STRIVE SCHOOL for +6 months.
 
 
 
 
  
-  <summary>:zap: Skills</summary>
+ ### :zap: Skills:
+  
+  
 
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
@@ -32,7 +34,7 @@ Master Degree in Computer Science and a student at STRIVE SCHOOL for +6 months.
 
 
 
- <summary>:zap: GitHub Stats</summary>
+ ### :zap: GitHub Stats:
 
 
  ![Aleksander  github stats](https://github-readme-stats.vercel.app/api?username=alekszone&count_private=true&hide=issues,prs&show_icons=true&theme=vue&bg_color=white)
@@ -42,7 +44,7 @@ Master Degree in Computer Science and a student at STRIVE SCHOOL for +6 months.
 
 
 
- <summary>:zap: Most Used Languages</summary>
+### :zap: Most Used Languages:
  
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekszone&layout=compact)
