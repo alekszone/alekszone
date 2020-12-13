@@ -26,7 +26,7 @@ Master Degree in Computer Science and a student at STRIVE SCHOOL for +6 months.
 <img align="left" alt="CSS3" width="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0uuRzTDEapwR4VuZ8WkkiLI0-pmewwqcxZWdcOzTKqWPFdLvfIpZ2iyU5VAZa9wuvOy0aK6x5CFjrL6mBKV3BDg-c02bX_LslpQ&usqp=CAU&ec=45750088" />
 <img align="left" alt="CSS3" width="42px" src="https://www.jamesstone.com/wp-content/uploads/2017/11/Boostrap_logo.svg" />
 <img align="left" alt="CSS3" width="50px" src="https://pbs.twimg.com/media/Eejl8edX0AA_8fA.png" />
-<img align="left" alt="CSS3" width="42px" src="https://miro.medium.com/max/560/1*jZtQFMYGgMvRkIje-Rm1gQ.png" />
+
 
 
 
