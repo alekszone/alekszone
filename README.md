@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aleksander , a Full Stack  Developer that is focused on MERN stack(MongoDB, ExpressJS, ReactJS, NodeJS),
+<h3>I'm Aleksander</h3>   Full Stack  Developer that is focused on MERN stack(MongoDB, ExpressJS, ReactJS, NodeJS),
 Master Degree in Computer Science and a student at STRIVE SCHOOL for +6 months.
 
 
@@ -35,7 +35,7 @@ Master Degree in Computer Science and a student at STRIVE SCHOOL for +6 months.
 
 <br />
 <br />
-<br />
+
 
 
 
@@ -45,16 +45,14 @@ Master Degree in Computer Science and a student at STRIVE SCHOOL for +6 months.
 
  ### :zap: GitHub Stats:
 
-
  ![Aleksander  github stats](https://github-readme-stats.vercel.app/api?username=alekszone&count_private=true&hide=issues,prs&show_icons=true&theme=vue&bg_color=white)
 
 
-<br/>
 
 
 
-### :zap: Most Used Languages:
- 
+
+### :zap: Most Used Languages: 
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekszone&layout=compact)
 
