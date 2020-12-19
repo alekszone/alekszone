@@ -22,8 +22,18 @@ Master Degree in Computer Science and a student at STRIVE SCHOOL for +6 months.
 
 <br />
 <br />
+ 
+ 
  ### :zap: GitHub Stats:
+ 
+ 
+ 
  ![Aleksander  github stats](https://github-readme-stats.vercel.app/api?username=alekszone&count_private=true&hide=issues,prs&show_icons=true&theme=vue&bg_color=white)
+
+
+
+
+
 ### :zap: Most Used Languages: 
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekszone&layout=compact)
