@@ -44,7 +44,7 @@ Master Degree in Computer Science and a student at STRIVE SCHOOL for +6 months.
 
 
 <br />
-<br />
+
 
 
 ### :zap: Most Used Languages: 
