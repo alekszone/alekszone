@@ -22,7 +22,7 @@ Master Degree in Computer Science and a student at STRIVE SCHOOL for +6 months.
 <img align="left" alt="Node.js" width="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSMqYdah90kgyQnxtkABfhfgBJM5HTsLu5ZCqyKAXxtNkvcCFIQ2QdMWw7Gb87qX4wze9XGKh_mb1bblfxb1wktFAPeGOugUxiPA&usqp=CAU&ec=45750088" />
 <img align="left" alt="CSS3" width="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0uuRzTDEapwR4VuZ8WkkiLI0-pmewwqcxZWdcOzTKqWPFdLvfIpZ2iyU5VAZa9wuvOy0aK6x5CFjrL6mBKV3BDg-c02bX_LslpQ&usqp=CAU&ec=45750088" />
 <img align="left" alt="CSS3" width="42px" src="https://www.jamesstone.com/wp-content/uploads/2017/11/Boostrap_logo.svg" />
-<img align="left" alt="CSS3" width="50px" src="https://pbs.twimg.com/media/Eejl8edX0AA_8fA.png" />
+
 
 <img align="left" alt="postgreSQL"  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
