@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h3>I'm Aleksander</h3>   Full Stack  Developer that is focused on MERN stack(MongoDB, ExpressJS, ReactJS, NodeJS),
-Master Degree in Computer Science and a student at STRIVE SCHOOL for +6 months.
+Master Degree in Computer Science and a Student at STRIVE SCHOOL for +6 months.
 
 <br />
 <br />
